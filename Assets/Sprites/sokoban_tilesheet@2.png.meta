@@ -1,0 +1,3529 @@
+fileFormatVersion: 2
+guid: e51b5afd48d3d6842a3939feda6070e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1675719903245831832
+    second: sokoban_tilesheet@2_0
+  - first:
+      213: -305149082258102805
+    second: sokoban_tilesheet@2_1
+  - first:
+      213: 8219478465941998882
+    second: sokoban_tilesheet@2_2
+  - first:
+      213: 3385023707096304081
+    second: sokoban_tilesheet@2_3
+  - first:
+      213: -3793510089989436029
+    second: sokoban_tilesheet@2_4
+  - first:
+      213: 1933088545074434811
+    second: sokoban_tilesheet@2_5
+  - first:
+      213: 6812403503859032674
+    second: sokoban_tilesheet@2_6
+  - first:
+      213: -5233496538879497140
+    second: sokoban_tilesheet@2_7
+  - first:
+      213: -7332835057498784071
+    second: sokoban_tilesheet@2_8
+  - first:
+      213: -2672535085464480164
+    second: sokoban_tilesheet@2_9
+  - first:
+      213: -3680195785932111475
+    second: sokoban_tilesheet@2_10
+  - first:
+      213: -3939377697651438148
+    second: sokoban_tilesheet@2_11
+  - first:
+      213: 8244369100700984397
+    second: sokoban_tilesheet@2_12
+  - first:
+      213: 3161982808034609241
+    second: sokoban_tilesheet@2_13
+  - first:
+      213: 3311056449468143644
+    second: sokoban_tilesheet@2_14
+  - first:
+      213: -564979789528931047
+    second: sokoban_tilesheet@2_15
+  - first:
+      213: 5896841043142232426
+    second: sokoban_tilesheet@2_16
+  - first:
+      213: 7878880757280738956
+    second: sokoban_tilesheet@2_17
+  - first:
+      213: 327152025503574519
+    second: sokoban_tilesheet@2_18
+  - first:
+      213: -8613891184308486896
+    second: sokoban_tilesheet@2_19
+  - first:
+      213: -581460737370803710
+    second: sokoban_tilesheet@2_20
+  - first:
+      213: 8463383559247745997
+    second: sokoban_tilesheet@2_21
+  - first:
+      213: -6452549574610728345
+    second: sokoban_tilesheet@2_22
+  - first:
+      213: 8501143096555116839
+    second: sokoban_tilesheet@2_23
+  - first:
+      213: -3579083617621342488
+    second: sokoban_tilesheet@2_24
+  - first:
+      213: -5342335644614341115
+    second: sokoban_tilesheet@2_25
+  - first:
+      213: -97608284435613164
+    second: sokoban_tilesheet@2_26
+  - first:
+      213: 8037673392008865680
+    second: sokoban_tilesheet@2_27
+  - first:
+      213: -5849047003814897241
+    second: sokoban_tilesheet@2_28
+  - first:
+      213: -5921210226670572509
+    second: sokoban_tilesheet@2_29
+  - first:
+      213: -1060398206128342127
+    second: sokoban_tilesheet@2_30
+  - first:
+      213: -6162122117417497110
+    second: sokoban_tilesheet@2_31
+  - first:
+      213: -4997574448819969696
+    second: sokoban_tilesheet@2_32
+  - first:
+      213: 1991622173244545327
+    second: sokoban_tilesheet@2_33
+  - first:
+      213: 7958008648883256635
+    second: sokoban_tilesheet@2_34
+  - first:
+      213: 7319145889951748706
+    second: sokoban_tilesheet@2_35
+  - first:
+      213: -7654433447252600160
+    second: sokoban_tilesheet@2_36
+  - first:
+      213: -8027984021178361564
+    second: sokoban_tilesheet@2_37
+  - first:
+      213: 5507445368325272813
+    second: sokoban_tilesheet@2_38
+  - first:
+      213: -943431554983490555
+    second: sokoban_tilesheet@2_39
+  - first:
+      213: -4858337093785421886
+    second: sokoban_tilesheet@2_40
+  - first:
+      213: 1221324575389188125
+    second: sokoban_tilesheet@2_41
+  - first:
+      213: 7599262096534045289
+    second: sokoban_tilesheet@2_42
+  - first:
+      213: 4024948233433703487
+    second: sokoban_tilesheet@2_43
+  - first:
+      213: -4693207574069425961
+    second: sokoban_tilesheet@2_44
+  - first:
+      213: 8750830734854341540
+    second: sokoban_tilesheet@2_45
+  - first:
+      213: 1849313767547716736
+    second: sokoban_tilesheet@2_46
+  - first:
+      213: 7325538954119949099
+    second: sokoban_tilesheet@2_47
+  - first:
+      213: 1431521448061104647
+    second: sokoban_tilesheet@2_48
+  - first:
+      213: 8930331583014898283
+    second: sokoban_tilesheet@2_49
+  - first:
+      213: 1107399666156407896
+    second: sokoban_tilesheet@2_50
+  - first:
+      213: 4669274145291373057
+    second: sokoban_tilesheet@2_51
+  - first:
+      213: -2897606626278653895
+    second: sokoban_tilesheet@2_52
+  - first:
+      213: 2968559100378528600
+    second: sokoban_tilesheet@2_53
+  - first:
+      213: -3238072594906560508
+    second: sokoban_tilesheet@2_54
+  - first:
+      213: 2742706478471732721
+    second: sokoban_tilesheet@2_55
+  - first:
+      213: 7865357621277557407
+    second: sokoban_tilesheet@2_56
+  - first:
+      213: -943972110132656039
+    second: sokoban_tilesheet@2_57
+  - first:
+      213: -7991325692785157834
+    second: sokoban_tilesheet@2_58
+  - first:
+      213: -8765987551780022233
+    second: sokoban_tilesheet@2_59
+  - first:
+      213: 4281072962349237365
+    second: sokoban_tilesheet@2_60
+  - first:
+      213: -1513433858793906259
+    second: sokoban_tilesheet@2_61
+  - first:
+      213: 6527673617065088110
+    second: sokoban_tilesheet@2_62
+  - first:
+      213: 8561378692563135685
+    second: sokoban_tilesheet@2_63
+  - first:
+      213: 1315253667781329367
+    second: sokoban_tilesheet@2_64
+  - first:
+      213: -5875749031897801947
+    second: sokoban_tilesheet@2_65
+  - first:
+      213: -1502107300260170992
+    second: sokoban_tilesheet@2_66
+  - first:
+      213: 8177534063240931565
+    second: sokoban_tilesheet@2_67
+  - first:
+      213: 6500444626778598660
+    second: sokoban_tilesheet@2_68
+  - first:
+      213: -784373416488142277
+    second: sokoban_tilesheet@2_69
+  - first:
+      213: 5340245591755683230
+    second: sokoban_tilesheet@2_70
+  - first:
+      213: 725228126483881606
+    second: sokoban_tilesheet@2_71
+  - first:
+      213: 3539688855212973865
+    second: sokoban_tilesheet@2_72
+  - first:
+      213: 3461079365456977335
+    second: sokoban_tilesheet@2_73
+  - first:
+      213: 4442428980368086017
+    second: sokoban_tilesheet@2_74
+  - first:
+      213: -3861596319026884202
+    second: sokoban_tilesheet@2_75
+  - first:
+      213: 3566990375757119602
+    second: sokoban_tilesheet@2_76
+  - first:
+      213: 2503135716617096259
+    second: sokoban_tilesheet@2_77
+  - first:
+      213: -7973207559094594013
+    second: sokoban_tilesheet@2_78
+  - first:
+      213: -7994777486252462048
+    second: sokoban_tilesheet@2_79
+  - first:
+      213: -5175540580773410909
+    second: sokoban_tilesheet@2_80
+  - first:
+      213: -6302999912351736633
+    second: sokoban_tilesheet@2_81
+  - first:
+      213: -4064197603569075393
+    second: sokoban_tilesheet@2_82
+  - first:
+      213: 6159648305955594340
+    second: sokoban_tilesheet@2_83
+  - first:
+      213: -2956832669269219769
+    second: sokoban_tilesheet@2_84
+  - first:
+      213: -4055293092464318592
+    second: sokoban_tilesheet@2_85
+  - first:
+      213: 4658441758237260734
+    second: sokoban_tilesheet@2_86
+  - first:
+      213: -5794931674960921936
+    second: sokoban_tilesheet@2_87
+  - first:
+      213: 6955221647616734743
+    second: sokoban_tilesheet@2_88
+  - first:
+      213: 6909726272889434857
+    second: sokoban_tilesheet@2_89
+  - first:
+      213: 829987580766400260
+    second: sokoban_tilesheet@2_90
+  - first:
+      213: 1918077871101970952
+    second: sokoban_tilesheet@2_91
+  - first:
+      213: 5551801830691012677
+    second: sokoban_tilesheet@2_92
+  - first:
+      213: -2890799608815404132
+    second: sokoban_tilesheet@2_93
+  - first:
+      213: -3277198031636550511
+    second: sokoban_tilesheet@2_94
+  - first:
+      213: 8344057632778576426
+    second: sokoban_tilesheet@2_95
+  - first:
+      213: 7543544191036118924
+    second: sokoban_tilesheet@2_96
+  - first:
+      213: 3953245088581666089
+    second: sokoban_tilesheet@2_97
+  - first:
+      213: 4633590749710601423
+    second: sokoban_tilesheet@2_98
+  - first:
+      213: 4608806843127239109
+    second: sokoban_tilesheet@2_99
+  - first:
+      213: -4527714889058086546
+    second: sokoban_tilesheet@2_100
+  - first:
+      213: 2633297065175685453
+    second: sokoban_tilesheet@2_101
+  - first:
+      213: -4348127390354216924
+    second: sokoban_tilesheet@2_102
+  - first:
+      213: -7844326371233591740
+    second: sokoban_tilesheet@2_103
+  - first:
+      213: 4066715549209292177
+    second: sokoban_tilesheet@2_104
+  - first:
+      213: -4641497615215473088
+    second: sokoban_tilesheet@2_105
+  - first:
+      213: 184640438252352766
+    second: sokoban_tilesheet@2_106
+  - first:
+      213: 5245798851347316476
+    second: sokoban_tilesheet@2_107
+  - first:
+      213: 8300708431848684035
+    second: sokoban_tilesheet@2_108
+  - first:
+      213: -333525607485946184
+    second: sokoban_tilesheet@2_109
+  - first:
+      213: -7612677285306927012
+    second: sokoban_tilesheet@2_110
+  - first:
+      213: -4389552647503424439
+    second: sokoban_tilesheet@2_111
+  - first:
+      213: 1790380816849068320
+    second: sokoban_tilesheet@2_112
+  - first:
+      213: -8858569710830607415
+    second: sokoban_tilesheet@2_113
+  - first:
+      213: -509384454182429450
+    second: sokoban_tilesheet@2_114
+  - first:
+      213: 7356566407866266558
+    second: sokoban_tilesheet@2_115
+  - first:
+      213: 8045684873829697320
+    second: sokoban_tilesheet@2_116
+  - first:
+      213: -9083945088157610484
+    second: sokoban_tilesheet@2_117
+  - first:
+      213: 5354591837774182883
+    second: sokoban_tilesheet@2_118
+  - first:
+      213: -6866898972566625335
+    second: sokoban_tilesheet@2_119
+  - first:
+      213: -6297553706316668843
+    second: sokoban_tilesheet@2_120
+  - first:
+      213: 6720980035888504640
+    second: sokoban_tilesheet@2_121
+  - first:
+      213: -5916686566710622754
+    second: sokoban_tilesheet@2_122
+  - first:
+      213: 1489415359846274527
+    second: sokoban_tilesheet@2_123
+  - first:
+      213: -5234586297107574701
+    second: sokoban_tilesheet@2_124
+  - first:
+      213: 4538994554042345755
+    second: sokoban_tilesheet@2_125
+  - first:
+      213: 4981544789884792976
+    second: sokoban_tilesheet@2_126
+  - first:
+      213: -8414085709186861914
+    second: sokoban_tilesheet@2_127
+  - first:
+      213: 6751688261727749574
+    second: sokoban_tilesheet@2_128
+  - first:
+      213: -6031555905525331281
+    second: sokoban_tilesheet@2_129
+  - first:
+      213: 5148199336053678075
+    second: sokoban_tilesheet@2_130
+  - first:
+      213: -1626668256716308045
+    second: sokoban_tilesheet@2_131
+  - first:
+      213: -8626219640117383390
+    second: sokoban_tilesheet@2_132
+  - first:
+      213: 393072549167039998
+    second: sokoban_tilesheet@2_133
+  - first:
+      213: -2929328318322468145
+    second: sokoban_tilesheet@2_134
+  - first:
+      213: -7814355306344551961
+    second: sokoban_tilesheet@2_135
+  - first:
+      213: -5761775414343361369
+    second: sokoban_tilesheet@2_136
+  - first:
+      213: -864534164995838384
+    second: sokoban_tilesheet@2_137
+  - first:
+      213: 6536167368751408831
+    second: sokoban_tilesheet@2_138
+  - first:
+      213: 8114284669605257955
+    second: sokoban_tilesheet@2_139
+  - first:
+      213: -1246638230107594183
+    second: sokoban_tilesheet@2_140
+  - first:
+      213: 3119157858116857746
+    second: sokoban_tilesheet@2_141
+  - first:
+      213: 8806981943920492308
+    second: sokoban_tilesheet@2_142
+  - first:
+      213: -8124425845894874976
+    second: sokoban_tilesheet@2_143
+  - first:
+      213: 5043200601654990256
+    second: sokoban_tilesheet@2_144
+  - first:
+      213: 3390711457891402358
+    second: sokoban_tilesheet@2_145
+  - first:
+      213: 6724064325548267579
+    second: sokoban_tilesheet@2_146
+  - first:
+      213: 2784543320923038615
+    second: sokoban_tilesheet@2_147
+  - first:
+      213: -6925304613953075642
+    second: sokoban_tilesheet@2_148
+  - first:
+      213: 3905039094532884381
+    second: sokoban_tilesheet@2_149
+  - first:
+      213: 2254108589390311244
+    second: sokoban_tilesheet@2_150
+  - first:
+      213: -1415354008197364662
+    second: sokoban_tilesheet@2_151
+  - first:
+      213: -7168746847019401955
+    second: sokoban_tilesheet@2_152
+  - first:
+      213: -361715023672515506
+    second: sokoban_tilesheet@2_153
+  - first:
+      213: 7700473621511016338
+    second: sokoban_tilesheet@2_154
+  - first:
+      213: -2047864550770945911
+    second: sokoban_tilesheet@2_155
+  - first:
+      213: 8226962467819444571
+    second: sokoban_tilesheet@2_156
+  - first:
+      213: 3694863246946561304
+    second: sokoban_tilesheet@2_157
+  - first:
+      213: -8671498965218712029
+    second: sokoban_tilesheet@2_158
+  - first:
+      213: -7990636442447372826
+    second: sokoban_tilesheet@2_159
+  - first:
+      213: -6120527975041314605
+    second: sokoban_tilesheet@2_160
+  - first:
+      213: 1575019410828028618
+    second: sokoban_tilesheet@2_161
+  - first:
+      213: -1385441859065271944
+    second: sokoban_tilesheet@2_162
+  - first:
+      213: -8064016234863872249
+    second: sokoban_tilesheet@2_163
+  - first:
+      213: 9049677112983576990
+    second: sokoban_tilesheet@2_164
+  - first:
+      213: -2785991884189463535
+    second: sokoban_tilesheet@2_165
+  - first:
+      213: 1567100404295326997
+    second: sokoban_tilesheet@2_166
+  - first:
+      213: -3253494727554250825
+    second: sokoban_tilesheet@2_167
+  - first:
+      213: -2701524712331773392
+    second: sokoban_tilesheet@2_168
+  - first:
+      213: 2745568723762852248
+    second: sokoban_tilesheet@2_169
+  - first:
+      213: -6809859923964096642
+    second: sokoban_tilesheet@2_170
+  - first:
+      213: -7981641237950967135
+    second: sokoban_tilesheet@2_171
+  - first:
+      213: -5158653183982485468
+    second: sokoban_tilesheet@2_172
+  - first:
+      213: 5664921983320733467
+    second: sokoban_tilesheet@2_173
+  - first:
+      213: -8335618393699594228
+    second: sokoban_tilesheet@2_174
+  - first:
+      213: -822397925865248305
+    second: sokoban_tilesheet@2_175
+  - first:
+      213: -7990701017226747786
+    second: sokoban_tilesheet@2_176
+  - first:
+      213: -108391792549196819
+    second: sokoban_tilesheet@2_177
+  - first:
+      213: 1192226315237426414
+    second: sokoban_tilesheet@2_178
+  - first:
+      213: -6257005414864130963
+    second: sokoban_tilesheet@2_179
+  - first:
+      213: -157117361258890593
+    second: sokoban_tilesheet@2_180
+  - first:
+      213: 5465026834940104103
+    second: sokoban_tilesheet@2_181
+  - first:
+      213: -3174722439185345587
+    second: sokoban_tilesheet@2_182
+  - first:
+      213: 6482921441104673617
+    second: sokoban_tilesheet@2_183
+  - first:
+      213: 8543580916389522598
+    second: sokoban_tilesheet@2_184
+  - first:
+      213: -7432519913420947303
+    second: sokoban_tilesheet@2_185
+  - first:
+      213: 4629845123407004471
+    second: sokoban_tilesheet@2_186
+  - first:
+      213: -8908191890447899018
+    second: sokoban_tilesheet@2_187
+  - first:
+      213: -4254752223721286144
+    second: sokoban_tilesheet@2_188
+  - first:
+      213: 5266120293067125516
+    second: sokoban_tilesheet@2_189
+  - first:
+      213: 5369379097056429417
+    second: sokoban_tilesheet@2_190
+  - first:
+      213: -4953225566719927322
+    second: sokoban_tilesheet@2_191
+  - first:
+      213: 7009442937410949306
+    second: sokoban_tilesheet@2_192
+  - first:
+      213: -2540201196277157773
+    second: sokoban_tilesheet@2_193
+  - first:
+      213: 8151669406973365284
+    second: sokoban_tilesheet@2_194
+  - first:
+      213: -371051829109088860
+    second: sokoban_tilesheet@2_195
+  - first:
+      213: 373390541973329416
+    second: sokoban_tilesheet@2_196
+  - first:
+      213: -7792501766082597639
+    second: sokoban_tilesheet@2_197
+  - first:
+      213: 9194119441719803063
+    second: sokoban_tilesheet@2_198
+  - first:
+      213: 6007285744012675872
+    second: sokoban_tilesheet@2_199
+  - first:
+      213: 5146465353771481454
+    second: sokoban_tilesheet@2_200
+  - first:
+      213: 4531492319878269908
+    second: sokoban_tilesheet@2_201
+  - first:
+      213: -772022243114931472
+    second: sokoban_tilesheet@2_202
+  - first:
+      213: -9055339491230474099
+    second: sokoban_tilesheet@2_203
+  - first:
+      213: -7229766027235698433
+    second: sokoban_tilesheet@2_204
+  - first:
+      213: -4751826949783285369
+    second: sokoban_tilesheet@2_205
+  - first:
+      213: -2826617736209763519
+    second: sokoban_tilesheet@2_206
+  - first:
+      213: 3787921412673274567
+    second: sokoban_tilesheet@2_207
+  - first:
+      213: 5468475792075234503
+    second: sokoban_tilesheet@2_208
+  - first:
+      213: -908393734607820819
+    second: sokoban_tilesheet@2_209
+  - first:
+      213: 7493444502942304261
+    second: sokoban_tilesheet@2_210
+  - first:
+      213: -6413469232699964268
+    second: sokoban_tilesheet@2_211
+  - first:
+      213: -7276013348270068005
+    second: sokoban_tilesheet@2_212
+  - first:
+      213: -3397163284242159564
+    second: sokoban_tilesheet@2_213
+  - first:
+      213: -7600332882880184634
+    second: sokoban_tilesheet@2_214
+  - first:
+      213: 8770527609115336058
+    second: sokoban_tilesheet@2_215
+  - first:
+      213: -7126500925642573900
+    second: sokoban_tilesheet@2_216
+  - first:
+      213: 6537996430604253959
+    second: sokoban_tilesheet@2_217
+  - first:
+      213: -5503318615817726498
+    second: sokoban_tilesheet@2_218
+  - first:
+      213: -1447376327603854077
+    second: sokoban_tilesheet@2_219
+  - first:
+      213: 1050372394343420159
+    second: sokoban_tilesheet@2_220
+  - first:
+      213: -6753920400982007382
+    second: sokoban_tilesheet@2_221
+  - first:
+      213: -9138294964774186176
+    second: sokoban_tilesheet@2_222
+  - first:
+      213: -347744972543442542
+    second: sokoban_tilesheet@2_223
+  - first:
+      213: -3903512065879301165
+    second: sokoban_tilesheet@2_224
+  - first:
+      213: 9139761089728617340
+    second: sokoban_tilesheet@2_225
+  - first:
+      213: 3536792226570159347
+    second: sokoban_tilesheet@2_226
+  - first:
+      213: -8126723644871640356
+    second: sokoban_tilesheet@2_227
+  - first:
+      213: 6233579418595071359
+    second: sokoban_tilesheet@2_228
+  - first:
+      213: -6071486571393730500
+    second: sokoban_tilesheet@2_229
+  - first:
+      213: 7187898893732803193
+    second: sokoban_tilesheet@2_230
+  - first:
+      213: -187704894626441043
+    second: sokoban_tilesheet@2_231
+  - first:
+      213: 7433172514850966386
+    second: sokoban_tilesheet@2_232
+  - first:
+      213: -338802406184780945
+    second: sokoban_tilesheet@2_233
+  - first:
+      213: -6718922701750099267
+    second: sokoban_tilesheet@2_234
+  - first:
+      213: 5095137816686441088
+    second: sokoban_tilesheet@2_235
+  - first:
+      213: -8131076441013684490
+    second: sokoban_tilesheet@2_236
+  - first:
+      213: -2702663036799878081
+    second: sokoban_tilesheet@2_237
+  - first:
+      213: 3441080946725428721
+    second: sokoban_tilesheet@2_238
+  - first:
+      213: -7014401396452626633
+    second: sokoban_tilesheet@2_239
+  - first:
+      213: 8536343627345451077
+    second: sokoban_tilesheet@2_240
+  - first:
+      213: -5766711927017766269
+    second: sokoban_tilesheet@2_241
+  - first:
+      213: -1730554668020342747
+    second: sokoban_tilesheet@2_242
+  - first:
+      213: -25521810993677298
+    second: sokoban_tilesheet@2_243
+  - first:
+      213: 6960713344764716328
+    second: sokoban_tilesheet@2_244
+  - first:
+      213: -2528938154857930768
+    second: sokoban_tilesheet@2_245
+  - first:
+      213: -7699718893438056037
+    second: sokoban_tilesheet@2_246
+  - first:
+      213: 4170684885371646366
+    second: sokoban_tilesheet@2_247
+  - first:
+      213: -6174542203370682043
+    second: sokoban_tilesheet@2_248
+  - first:
+      213: 5640539258348887621
+    second: sokoban_tilesheet@2_249
+  - first:
+      213: 2398333510519390856
+    second: sokoban_tilesheet@2_250
+  - first:
+      213: -3208903162893916174
+    second: sokoban_tilesheet@2_251
+  - first:
+      213: 5618254278825033112
+    second: sokoban_tilesheet@2_252
+  - first:
+      213: -2554816633830088217
+    second: sokoban_tilesheet@2_253
+  - first:
+      213: -2634169275669932918
+    second: sokoban_tilesheet@2_254
+  - first:
+      213: -9046617994412502294
+    second: sokoban_tilesheet@2_255
+  - first:
+      213: 8393968555147229961
+    second: sokoban_tilesheet@2_256
+  - first:
+      213: 8208645305519318875
+    second: sokoban_tilesheet@2_257
+  - first:
+      213: 7360566016104825347
+    second: sokoban_tilesheet@2_258
+  - first:
+      213: 6990806091319879553
+    second: sokoban_tilesheet@2_259
+  - first:
+      213: -5365028452539258590
+    second: sokoban_tilesheet@2_260
+  - first:
+      213: -4339920918640361093
+    second: sokoban_tilesheet@2_261
+  - first:
+      213: -5460805442995285569
+    second: sokoban_tilesheet@2_262
+  - first:
+      213: 5241287319208010584
+    second: sokoban_tilesheet@2_263
+  - first:
+      213: -4528679016191897082
+    second: sokoban_tilesheet@2_264
+  - first:
+      213: -2480647546281287052
+    second: sokoban_tilesheet@2_265
+  - first:
+      213: 587784932185555287
+    second: sokoban_tilesheet@2_266
+  - first:
+      213: 3103138927624199329
+    second: sokoban_tilesheet@2_267
+  - first:
+      213: -3188342577733784075
+    second: sokoban_tilesheet@2_268
+  - first:
+      213: 7121551253750609956
+    second: sokoban_tilesheet@2_269
+  - first:
+      213: -2832356941454489976
+    second: sokoban_tilesheet@2_270
+  - first:
+      213: 8380033308658740233
+    second: sokoban_tilesheet@2_271
+  - first:
+      213: -5481503639839480441
+    second: sokoban_tilesheet@2_272
+  - first:
+      213: -8881741696606094426
+    second: sokoban_tilesheet@2_273
+  - first:
+      213: 7370501936316196787
+    second: sokoban_tilesheet@2_274
+  - first:
+      213: -7501401783711248030
+    second: sokoban_tilesheet@2_275
+  - first:
+      213: 7038333604330756265
+    second: sokoban_tilesheet@2_276
+  - first:
+      213: -8783388181336062679
+    second: sokoban_tilesheet@2_277
+  - first:
+      213: 7564791949230900429
+    second: sokoban_tilesheet@2_278
+  - first:
+      213: 2936780107158280547
+    second: sokoban_tilesheet@2_279
+  - first:
+      213: 5225122763257196044
+    second: sokoban_tilesheet@2_280
+  - first:
+      213: 7446954076754853110
+    second: sokoban_tilesheet@2_281
+  - first:
+      213: 7411148370213954875
+    second: sokoban_tilesheet@2_282
+  - first:
+      213: 3804768682868224783
+    second: sokoban_tilesheet@2_283
+  - first:
+      213: -3098285643405227579
+    second: sokoban_tilesheet@2_284
+  - first:
+      213: 1814976225201166714
+    second: sokoban_tilesheet@2_285
+  - first:
+      213: -1178871141855049524
+    second: sokoban_tilesheet@2_286
+  - first:
+      213: -8462992504578085212
+    second: sokoban_tilesheet@2_287
+  - first:
+      213: 5062431600179252741
+    second: sokoban_tilesheet@2_288
+  - first:
+      213: -5895549110641640495
+    second: sokoban_tilesheet@2_289
+  - first:
+      213: 8968951216769616854
+    second: sokoban_tilesheet@2_290
+  - first:
+      213: 1554186057045703221
+    second: sokoban_tilesheet@2_291
+  - first:
+      213: -2375385170283966616
+    second: sokoban_tilesheet@2_292
+  - first:
+      213: 1640046541236414335
+    second: sokoban_tilesheet@2_293
+  - first:
+      213: -917539610199567011
+    second: sokoban_tilesheet@2_294
+  - first:
+      213: 6731473958678157645
+    second: sokoban_tilesheet@2_295
+  - first:
+      213: 338288339665431521
+    second: sokoban_tilesheet@2_296
+  - first:
+      213: 8891480927118710465
+    second: sokoban_tilesheet@2_297
+  - first:
+      213: -2724860437790482295
+    second: sokoban_tilesheet@2_298
+  - first:
+      213: -2382586326292553497
+    second: sokoban_tilesheet@2_299
+  - first:
+      213: -6439367704336751008
+    second: sokoban_tilesheet@2_300
+  - first:
+      213: 515966542503038185
+    second: sokoban_tilesheet@2_301
+  - first:
+      213: -8945398430206984531
+    second: sokoban_tilesheet@2_302
+  - first:
+      213: -3778048808939107736
+    second: sokoban_tilesheet@2_303
+  - first:
+      213: 6874747986728183951
+    second: sokoban_tilesheet@2_304
+  - first:
+      213: -6246111854703842254
+    second: sokoban_tilesheet@2_305
+  - first:
+      213: 5033772486656088522
+    second: sokoban_tilesheet@2_306
+  - first:
+      213: 315559148362878575
+    second: sokoban_tilesheet@2_307
+  - first:
+      213: 7268975072335058244
+    second: sokoban_tilesheet@2_308
+  - first:
+      213: -914246215912103567
+    second: sokoban_tilesheet@2_309
+  - first:
+      213: 3764654591437079168
+    second: sokoban_tilesheet@2_310
+  - first:
+      213: 8541095193692932576
+    second: sokoban_tilesheet@2_311
+  - first:
+      213: 2744072768370372497
+    second: sokoban_tilesheet@2_312
+  - first:
+      213: -3112142138506062110
+    second: sokoban_tilesheet@2_313
+  - first:
+      213: 4336156707831833406
+    second: sokoban_tilesheet@2_314
+  - first:
+      213: 5827002149393148800
+    second: sokoban_tilesheet@2_315
+  - first:
+      213: 6772504712796904120
+    second: sokoban_tilesheet@2_316
+  - first:
+      213: -1191570564646675496
+    second: sokoban_tilesheet@2_317
+  - first:
+      213: -5373740516682014228
+    second: sokoban_tilesheet@2_318
+  - first:
+      213: -3149322586136515330
+    second: sokoban_tilesheet@2_319
+  - first:
+      213: -8358348785611201500
+    second: sokoban_tilesheet@2_320
+  - first:
+      213: -59383749700790381
+    second: sokoban_tilesheet@2_321
+  - first:
+      213: -9068139621787239388
+    second: sokoban_tilesheet@2_322
+  - first:
+      213: -1943502798201083501
+    second: sokoban_tilesheet@2_323
+  - first:
+      213: -4810896532109937478
+    second: sokoban_tilesheet@2_324
+  - first:
+      213: 7986921924482914847
+    second: sokoban_tilesheet@2_325
+  - first:
+      213: -4064950925658252747
+    second: sokoban_tilesheet@2_326
+  - first:
+      213: 5041854515069175268
+    second: sokoban_tilesheet@2_327
+  - first:
+      213: -3705324568967996235
+    second: sokoban_tilesheet@2_328
+  - first:
+      213: 187584545768572363
+    second: sokoban_tilesheet@2_329
+  - first:
+      213: -1616750914688860343
+    second: sokoban_tilesheet@2_330
+  - first:
+      213: -8575825812002531614
+    second: sokoban_tilesheet@2_331
+  - first:
+      213: 8312024122637000781
+    second: sokoban_tilesheet@2_332
+  - first:
+      213: -3495936259011427245
+    second: sokoban_tilesheet@2_333
+  - first:
+      213: -5207512205730156654
+    second: sokoban_tilesheet@2_334
+  - first:
+      213: 313054017505422554
+    second: sokoban_tilesheet@2_335
+  - first:
+      213: 7068631072221158951
+    second: sokoban_tilesheet@2_336
+  - first:
+      213: 4876264349541777667
+    second: sokoban_tilesheet@2_337
+  - first:
+      213: -3595854256586093885
+    second: sokoban_tilesheet@2_338
+  - first:
+      213: 1335695738632357560
+    second: sokoban_tilesheet@2_339
+  - first:
+      213: 8853962818794186522
+    second: sokoban_tilesheet@2_340
+  - first:
+      213: 6377094078189599266
+    second: sokoban_tilesheet@2_341
+  - first:
+      213: 5390726179250034613
+    second: sokoban_tilesheet@2_342
+  - first:
+      213: -7789289063412122283
+    second: sokoban_tilesheet@2_343
+  - first:
+      213: -8280537843128629965
+    second: sokoban_tilesheet@2_344
+  - first:
+      213: -4577414871522642331
+    second: sokoban_tilesheet@2_345
+  - first:
+      213: 719732725124133455
+    second: sokoban_tilesheet@2_346
+  - first:
+      213: 948578851251214483
+    second: sokoban_tilesheet@2_347
+  - first:
+      213: 1842659326458461556
+    second: sokoban_tilesheet@2_348
+  - first:
+      213: 8172518763426291846
+    second: sokoban_tilesheet@2_349
+  - first:
+      213: -5112656387195360052
+    second: sokoban_tilesheet@2_350
+  - first:
+      213: 1333161908913746480
+    second: sokoban_tilesheet@2_351
+  - first:
+      213: -2949203476774818623
+    second: sokoban_tilesheet@2_352
+  - first:
+      213: -8602379099851660766
+    second: sokoban_tilesheet@2_353
+  - first:
+      213: -3077308073489169216
+    second: sokoban_tilesheet@2_354
+  - first:
+      213: -1381334138985644941
+    second: sokoban_tilesheet@2_355
+  - first:
+      213: 3333851014333420257
+    second: sokoban_tilesheet@2_356
+  - first:
+      213: 120236656374927946
+    second: sokoban_tilesheet@2_357
+  - first:
+      213: 1668953859413215109
+    second: sokoban_tilesheet@2_358
+  - first:
+      213: 245439936661147325
+    second: sokoban_tilesheet@2_359
+  - first:
+      213: 2936637040105759239
+    second: sokoban_tilesheet@2_360
+  - first:
+      213: 5206141641974108867
+    second: sokoban_tilesheet@2_361
+  - first:
+      213: -1172741877839766140
+    second: sokoban_tilesheet@2_362
+  - first:
+      213: -6179763777943044064
+    second: sokoban_tilesheet@2_363
+  - first:
+      213: 3266347510302986934
+    second: sokoban_tilesheet@2_364
+  - first:
+      213: -1356358012291926263
+    second: sokoban_tilesheet@2_365
+  - first:
+      213: 8977039462467905828
+    second: sokoban_tilesheet@2_366
+  - first:
+      213: -5963571784318568598
+    second: sokoban_tilesheet@2_367
+  - first:
+      213: 8140161256558401642
+    second: sokoban_tilesheet@2_368
+  - first:
+      213: -4356203611816283839
+    second: sokoban_tilesheet@2_369
+  - first:
+      213: 2845792784343276391
+    second: sokoban_tilesheet@2_370
+  - first:
+      213: 1213675375076551717
+    second: sokoban_tilesheet@2_371
+  - first:
+      213: -1588880455732445223
+    second: sokoban_tilesheet@2_372
+  - first:
+      213: -7182240634262188935
+    second: sokoban_tilesheet@2_373
+  - first:
+      213: 8980408088275990264
+    second: sokoban_tilesheet@2_374
+  - first:
+      213: -2709976526493231743
+    second: sokoban_tilesheet@2_375
+  - first:
+      213: 1980289336054621529
+    second: sokoban_tilesheet@2_376
+  - first:
+      213: -903564367938269419
+    second: sokoban_tilesheet@2_377
+  - first:
+      213: 138025295001713650
+    second: sokoban_tilesheet@2_378
+  - first:
+      213: 572174219119457584
+    second: sokoban_tilesheet@2_379
+  - first:
+      213: 3953718236101712258
+    second: sokoban_tilesheet@2_380
+  - first:
+      213: -175689727427638059
+    second: sokoban_tilesheet@2_381
+  - first:
+      213: 8592570977389028502
+    second: sokoban_tilesheet@2_382
+  - first:
+      213: -6896774010804952689
+    second: sokoban_tilesheet@2_383
+  - first:
+      213: -7614205099040744968
+    second: sokoban_tilesheet@2_384
+  - first:
+      213: -7418210862217194805
+    second: sokoban_tilesheet@2_385
+  - first:
+      213: 1917802444321009599
+    second: sokoban_tilesheet@2_386
+  - first:
+      213: 5360689369842242486
+    second: sokoban_tilesheet@2_387
+  - first:
+      213: 1048006553678610582
+    second: sokoban_tilesheet@2_388
+  - first:
+      213: 9020204349009034829
+    second: sokoban_tilesheet@2_389
+  - first:
+      213: 9173774286789702522
+    second: sokoban_tilesheet@2_390
+  - first:
+      213: 8342167889510399954
+    second: sokoban_tilesheet@2_391
+  - first:
+      213: 6051558835598788627
+    second: sokoban_tilesheet@2_392
+  - first:
+      213: 1357240373309167351
+    second: sokoban_tilesheet@2_393
+  - first:
+      213: -2961512578983370856
+    second: sokoban_tilesheet@2_394
+  - first:
+      213: -8611609838233559508
+    second: sokoban_tilesheet@2_395
+  - first:
+      213: 4398579329840580665
+    second: sokoban_tilesheet@2_396
+  - first:
+      213: 63242531198208527
+    second: sokoban_tilesheet@2_397
+  - first:
+      213: -7359780515271689504
+    second: sokoban_tilesheet@2_398
+  - first:
+      213: 3180893903794472521
+    second: sokoban_tilesheet@2_399
+  - first:
+      213: -5590812301602219979
+    second: sokoban_tilesheet@2_400
+  - first:
+      213: -4067356317629033915
+    second: sokoban_tilesheet@2_401
+  - first:
+      213: 1418326436523785559
+    second: sokoban_tilesheet@2_402
+  - first:
+      213: 5039417720578376725
+    second: sokoban_tilesheet@2_403
+  - first:
+      213: -2684064821603633388
+    second: sokoban_tilesheet@2_404
+  - first:
+      213: 7300177061154052691
+    second: sokoban_tilesheet@2_405
+  - first:
+      213: 6870053533980212577
+    second: sokoban_tilesheet@2_406
+  - first:
+      213: 1052659073760349711
+    second: sokoban_tilesheet@2_407
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861faf750a5aeb8e0800000000000000
+      internalID: -1675719903245831832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be52874c684e3cbf0800000000000000
+      internalID: -305149082258102805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d0279bd14711270800000000000000
+      internalID: 8219478465941998882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d940c180250afe20800000000000000
+      internalID: 3385023707096304081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dc15a0caeba5bc0800000000000000
+      internalID: -3793510089989436029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_5
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d9803ac5b3da10800000000000000
+      internalID: 1933088545074434811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_6
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262e422a4e48a8e50800000000000000
+      internalID: 6812403503859032674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_7
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ce9da40a2ee57b0800000000000000
+      internalID: -5233496538879497140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_8
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef041cd598c3a90800000000000000
+      internalID: -7332835057498784071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_9
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c561f1ddf7f39ead0800000000000000
+      internalID: -2672535085464480164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_10
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8180a36e615decc0800000000000000
+      internalID: -3680195785932111475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdc36f0bd48459c0800000000000000
+      internalID: -3939377697651438148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d442d7c3402e96270800000000000000
+      internalID: 8244369100700984397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9588bca6c9e91eb20800000000000000
+      internalID: 3161982808034609241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1890dd4c4c33fd20800000000000000
+      internalID: 3311056449468143644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9156ad3ffd9c828f0800000000000000
+      internalID: -564979789528931047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_16
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69cf699fa9c5d150800000000000000
+      internalID: 5896841043142232426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e016dfd48675d60800000000000000
+      internalID: 7878880757280738956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_18
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9a0bba8074a8400800000000000000
+      internalID: 327152025503574519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d7c613b9f457880800000000000000
+      internalID: -8613891184308486896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_20
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2023d224a8c3ee7f0800000000000000
+      internalID: -581460737370803710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3d7d6918af37570800000000000000
+      internalID: 8463383559247745997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_22
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76acab55950f376a0800000000000000
+      internalID: -6452549574610728345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_23
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7299ee6fa902af570800000000000000
+      internalID: 8501143096555116839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6824e996a845ec0800000000000000
+      internalID: -3579083617621342488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ecadf39063cd5b0800000000000000
+      internalID: -5342335644614341115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a741f48c935aef0800000000000000
+      internalID: -97608284435613164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0972c475d5d8b8f60800000000000000
+      internalID: 8037673392008865680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9dc075db204dea0800000000000000
+      internalID: -5849047003814897241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ce3e6bba2a3dda0800000000000000
+      internalID: -5921210226670572509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_30
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b32432375b841f0800000000000000
+      internalID: -1060398206128342127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_31
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed80c0259ebb7aa0800000000000000
+      internalID: -6162122117417497110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061648f548c05aab0800000000000000
+      internalID: -4997574448819969696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_33
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29580380d9a3ab10800000000000000
+      internalID: 1991622173244545327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_34
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d3c2ce3b6807e60800000000000000
+      internalID: 7958008648883256635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_35
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26295dd8864d29560800000000000000
+      internalID: 7319145889951748706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_36
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aad3aba55df5c590800000000000000
+      internalID: -7654433447252600160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429d62b111fd69090800000000000000
+      internalID: -8027984021178361564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4f5eef1606e6c40800000000000000
+      internalID: 5507445368325272813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_39
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c805fcff148e2f0800000000000000
+      internalID: -943431554983490555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7f0dd5728b39cb0800000000000000
+      internalID: -4858337093785421886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10078ffa3403f010800000000000000
+      internalID: 1221324575389188125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_42
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962800b3d90067960800000000000000
+      internalID: 7599262096534045289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34e62dd71d7bd730800000000000000
+      internalID: 4024948233433703487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_44
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d84b6ab3906edeb0800000000000000
+      internalID: -4693207574069425961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_45
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a340908032317970800000000000000
+      internalID: 8750830734854341540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_46
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084cbe0d2151aa910800000000000000
+      internalID: 1849313767547716736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b2b9ccdda89a560800000000000000
+      internalID: 7325538954119949099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_48
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702f8082c29cdd310800000000000000
+      internalID: 1431521448061104647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_49
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a0e048249eeeb70800000000000000
+      internalID: 8930331583014898283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c83ad01264e5f00800000000000000
+      internalID: 1107399666156407896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a0205a8189cc040800000000000000
+      internalID: 4669274145291373057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930c7d52022a9c7d0800000000000000
+      internalID: -2897606626278653895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_53
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bb0d016c0723920800000000000000
+      internalID: 2968559100378528600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_54
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408caa7812e0013d0800000000000000
+      internalID: -3238072594906560508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_55
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd587cb20d001620800000000000000
+      internalID: 2742706478471732721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_56
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9209a7851d572d60800000000000000
+      internalID: 7865357621277557407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_57
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958caa10e5656e2f0800000000000000
+      internalID: -943972110132656039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_58
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639961d4f9b191190800000000000000
+      internalID: -7991325692785157834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_59
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d7ae04c4f85680800000000000000
+      internalID: -8765987551780022233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_60
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740b5a5d2d696b30800000000000000
+      internalID: 4281072962349237365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_61
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf5a878ce33ffae0800000000000000
+      internalID: -1513433858793906259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e649ad2d194f69a50800000000000000
+      internalID: 6527673617065088110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cce2dd8f8020d670800000000000000
+      internalID: 8561378692563135685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1c2a90e38b04210800000000000000
+      internalID: 1315253667781329367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bd264f265257ea0800000000000000
+      internalID: -5875749031897801947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_66
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013b8717e51772be0800000000000000
+      internalID: -1502107300260170992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8e12277ef6c7170800000000000000
+      internalID: 8177534063240931565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d2c3d72f7363a50800000000000000
+      internalID: 6500444626778598660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af6f298885d15f0800000000000000
+      internalID: -784373416488142277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_70
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9571f5621d5c1a40800000000000000
+      internalID: 5340245591755683230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_71
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e913c7327801a00800000000000000
+      internalID: 725228126483881606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_72
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fd06e72408f1130800000000000000
+      internalID: 3539688855212973865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_73
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd5f756859380030800000000000000
+      internalID: 3461079365456977335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_74
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049db2ee9da6ad30800000000000000
+      internalID: 4442428980368086017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_75
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69152728b9ad86ac0800000000000000
+      internalID: -3861596319026884202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2708d3819de708130800000000000000
+      internalID: 3566990375757119602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_77
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c0e8d0cacecb220800000000000000
+      internalID: 2503135716617096259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_78
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32615b708f9795190800000000000000
+      internalID: -7973207559094594013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_79
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020b1a10c38dc0190800000000000000
+      internalID: -7994777486252462048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_80
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7c1625349cc28b0800000000000000
+      internalID: -5175540580773410909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccd4f479fe3788a0800000000000000
+      internalID: -6302999912351736633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_82
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b754600d11997c0800000000000000
+      internalID: -4064197603569075393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_83
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460e1d1cf777b7550800000000000000
+      internalID: 6159648305955594340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_84
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74620ff6a5837f6d0800000000000000
+      internalID: -2956832669269219769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_85
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a1931b64b8b7c0800000000000000
+      internalID: -4055293092464318592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_86
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbf39ef81c16a040800000000000000
+      internalID: 4658441758237260734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_87
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba7b403854449fa0800000000000000
+      internalID: -5794931674960921936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_88
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7167d48fc39e58060800000000000000
+      internalID: 6955221647616734743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e232c69f6744ef50800000000000000
+      internalID: 6909726272889434857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f2197ae45b48b00800000000000000
+      internalID: 829987580766400260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a029e49a16e9a10800000000000000
+      internalID: 1918077871101970952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54083bda956fb0d40800000000000000
+      internalID: 5551801830691012677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_93
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b38b76211d1e7d0800000000000000
+      internalID: -2890799608815404132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_94
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ca1b9e0cd0582d0800000000000000
+      internalID: -3277198031636550511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_95
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a226723553c0cc370800000000000000
+      internalID: 8344057632778576426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_96
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c875b2e697d00b860800000000000000
+      internalID: 7543544191036118924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_97
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925c7fe767fbcd630800000000000000
+      internalID: 3953245088581666089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_98
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcc490fac32dd4040800000000000000
+      internalID: 4633590749710601423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_99
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c11df2c765c5ff30800000000000000
+      internalID: 4608806843127239109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_100
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6112791c435a21c0800000000000000
+      internalID: -4527714889058086546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_101
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4910ed9ab95b8420800000000000000
+      internalID: 2633297065175685453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_tilesheet@2_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4286ac30d2958a3c0800000000000000
+      internalID: -4348127390354216924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
