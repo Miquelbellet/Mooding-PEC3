@@ -144,6 +144,7 @@ public class EditLevelController : MonoBehaviour
     private void ReadLevelFile(string path)
     {
         StreamReader reader = new StreamReader(path);
+        var completed = reader.ReadLine();
         Rows = int.Parse(reader.ReadLine());
         Cols = int.Parse(reader.ReadLine());
         cells = new int[Rows, Cols];
@@ -206,6 +207,7 @@ public class EditLevelController : MonoBehaviour
         }
 
         StreamWriter writer = new StreamWriter(path, false);
+        writer.WriteLine("NotCompleted");
         writer.WriteLine(Rows);
         writer.WriteLine(Cols);
         for (int i = 0; i < Rows; i++)

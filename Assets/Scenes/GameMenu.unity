@@ -250,14 +250,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buttonsParent: {fileID: 1210704781}
-  buttonPrefab: {fileID: 5331310212231249364, guid: 2be57d82ef826d646a186dde76c3e73b, type: 3}
-  songs:
-  - {fileID: 8300000, guid: b19c6e892123e5a44a54a90cc1190027, type: 3}
-  - {fileID: 8300000, guid: c40672d3c4ad6b641ad7c8d23a2af1c9, type: 3}
-  - {fileID: 8300000, guid: e4bead0cf40857a45a8b0e6a54d89b56, type: 3}
-  - {fileID: 8300000, guid: 2a20f9fb4e80631499be4f79e9a02713, type: 3}
-  - {fileID: 8300000, guid: 02332b31adac9ea4898c158cdba6b69b, type: 3}
-  - {fileID: 8300000, guid: e81ba010a11a2aa4e941a2bd8b266cc5, type: 3}
+  redButtonPrefab: {fileID: 5331310212231249364, guid: 2be57d82ef826d646a186dde76c3e73b, type: 3}
+  greenButtonPrefab: {fileID: 5331310212231249364, guid: baedc5b7e8313f0498fab5b0ce2b566e, type: 3}
 --- !u!4 &102111761
 Transform:
   m_ObjectHideFlags: 0

@@ -35,6 +35,7 @@ public class GameLevelController : MonoBehaviour
     private void ReadLevelFile(string path)
     {
         StreamReader reader = new StreamReader(path);
+        var completed = reader.ReadLine();
         Rows = int.Parse(reader.ReadLine());
         Cols = int.Parse(reader.ReadLine());
         cells = new int[Rows, Cols];

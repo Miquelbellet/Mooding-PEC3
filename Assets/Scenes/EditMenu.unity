@@ -816,7 +816,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   buttonsParent: {fileID: 1359309573}
-  buttonPrefab: {fileID: 5331310212231249364, guid: 2be57d82ef826d646a186dde76c3e73b, type: 3}
+  redButtonPrefab: {fileID: 5331310212231249364, guid: 2be57d82ef826d646a186dde76c3e73b, type: 3}
+  greenButtonPrefab: {fileID: 5331310212231249364, guid: baedc5b7e8313f0498fab5b0ce2b566e, type: 3}
 --- !u!82 &1018432527
 AudioSource:
   m_ObjectHideFlags: 0

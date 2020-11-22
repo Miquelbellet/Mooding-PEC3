@@ -9,7 +9,8 @@ using UnityEngine.UI;
 public class GameMenuController : MonoBehaviour
 {
     public GameObject buttonsParent;
-    public GameObject buttonPrefab;
+    public GameObject redButtonPrefab;
+    public GameObject greenButtonPrefab;
 
     void Start()
     {
@@ -18,9 +19,14 @@ public class GameMenuController : MonoBehaviour
         {
             StreamReader reader = new StreamReader(path);
             var numOfLevels = int.Parse(reader.ReadLine());
-            for (int i = 0; i < numOfLevels; i++)
+            for (int i = 1; i <= numOfLevels; i++)
             {
-                Instantiate(buttonPrefab, buttonsParent.transform);
+                string path2 = "Assets/Resources/Level" + i + ".txt";
+                StreamReader reader2 = new StreamReader(path2);
+                var completed = reader2.ReadLine();
+                if (completed == "NotCompleted") Instantiate(redButtonPrefab, buttonsParent.transform);
+                else if (completed == "Completed") Instantiate(greenButtonPrefab, buttonsParent.transform);
+                reader2.Close();
             }
         }
         SetAllButtonsListeners();
