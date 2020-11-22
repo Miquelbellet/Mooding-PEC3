@@ -1,4 +1,4 @@
-NotCompleted
+Completed
 12
 8
 0

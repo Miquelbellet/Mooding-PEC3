@@ -23,10 +23,10 @@ public class LevelScript : MonoBehaviour
     private void Start()
     {
         gameController = GameObject.FindGameObjectWithTag("GameController");
-        gameController.GetComponent<UIScriptController>().SetLevelNumber(PlayerPrefs.GetInt("Level", 0));
+        if(gameController.GetComponent<UIScriptController>()) gameController.GetComponent<UIScriptController>().SetLevelNumber(PlayerPrefs.GetInt("Level", 0));
     }
 
-    public void DrawLevel(int[,] cells)
+    public void DrawEditLevel(int[,] cells)
     {
         if(transform.childCount > 0)
         {
@@ -47,7 +47,10 @@ public class LevelScript : MonoBehaviour
                 else if(cells[i, n] == 2) { Instantiate(targetPrefab, new Vector3(i, n, 0), Quaternion.Euler(0, 0, 0), transform); }
                 else if(cells[i, n] == 3) { Instantiate(editablePrefab, new Vector3(i, n, 0), Quaternion.Euler(0, 0, 0), transform); }
                 else if (cells[i, n] == 4) { Instantiate(emptyPrefab, new Vector3(i, n, 0), Quaternion.Euler(0, 0, 0), transform); }
-                else if (cells[i, n] == 5) { Instantiate(playerPrefab, new Vector3(i, n, 0), Quaternion.Euler(0, 0, 0), transform); }
+                else if (cells[i, n] == 5) {
+                    var player = Instantiate(playerPrefab, new Vector3(i, n, 0), Quaternion.Euler(0, 0, 0), transform);
+                    player.GetComponent<PlayerController>().activatePlayer = false;
+                }
             }
         }
         transform.position = new Vector2(levelPosInit.x, levelPosInit.y);
@@ -134,6 +137,8 @@ public class LevelScript : MonoBehaviour
                             }
                             else
                             {
+                                gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                                gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                                 return true;
                             }
                         }
@@ -144,6 +149,8 @@ public class LevelScript : MonoBehaviour
                             levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                             levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                             DrawLevelToPlayWithoutPlayer(levelCells);
+                            gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                            gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                             return true;
                         }
                         else if (levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] == 2)
@@ -153,6 +160,8 @@ public class LevelScript : MonoBehaviour
                             levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                             levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                             DrawLevelToPlayWithoutPlayer(levelCells);
+                            gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                            gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                             return true;
                         }
                         else if (levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] == 6)
@@ -162,6 +171,8 @@ public class LevelScript : MonoBehaviour
                             levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                             levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                             DrawLevelToPlayWithoutPlayer(levelCells);
+                            gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                            gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                             return true;
                         }
                     }
@@ -171,6 +182,8 @@ public class LevelScript : MonoBehaviour
                         levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                         levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                         DrawLevelToPlayWithoutPlayer(levelCells);
+                        gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                        gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                         return true;
                     }
                     else if (levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] == 2)
@@ -179,6 +192,8 @@ public class LevelScript : MonoBehaviour
                         levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                         levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                         DrawLevelToPlayWithoutPlayer(levelCells);
+                        gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                        gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                         return true;
                     }
                     else if (levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] == 6)
@@ -191,9 +206,13 @@ public class LevelScript : MonoBehaviour
                             levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                             levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                             DrawLevelToPlayWithoutPlayer(levelCells);
+                            gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                            gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                             return true;
                         }
                     }
+                    gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                    gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                     return true;
                 }
                 else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 2)
@@ -201,6 +220,8 @@ public class LevelScript : MonoBehaviour
                     levelCells[(int)forwardCell.x, (int)forwardCell.y] = 6;
                     levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                     DrawLevelToPlayWithoutPlayer(levelCells);
+                    gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                    gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                     return true;
                 }
                 else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 6)
@@ -212,6 +233,8 @@ public class LevelScript : MonoBehaviour
                         levelCells[(int)forwardCell.x, (int)forwardCell.y] = 6;
                         levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                         DrawLevelToPlayWithoutPlayer(levelCells);
+                        gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                        gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                         return true;
                     }
                 }
@@ -220,6 +243,8 @@ public class LevelScript : MonoBehaviour
                     levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                     levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
                     DrawLevelToPlayWithoutPlayer(levelCells);
+                    gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                    gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                     return true;
                 }
             }
@@ -231,6 +256,8 @@ public class LevelScript : MonoBehaviour
                     levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                     levelCells[(int)posPlayer.x, (int)posPlayer.y] = 2;
                     DrawLevelToPlayWithoutPlayer(levelCells);
+                    gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                    gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                     return true;
                 }
                 else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 1)
@@ -242,14 +269,44 @@ public class LevelScript : MonoBehaviour
                         levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
                         levelCells[(int)posPlayer.x, (int)posPlayer.y] = 2;
                         DrawLevelToPlayWithoutPlayer(levelCells);
+                        gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                        gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                         return true;
                     }
                 }
+                else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 2)
+                {
+                    levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 3;
+                    levelCells[(int)forwardCell.x, (int)forwardCell.y] = 6;
+                    levelCells[(int)posPlayer.x, (int)posPlayer.y] = 2;
+                    DrawLevelToPlayWithoutPlayer(levelCells);
+                    gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                    gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
+                    return true;
+                }
+                else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 6)
+                {
+                    if (levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] == 0) return false;
+                    else
+                    {
+                        levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] = 3;
+                        levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 6;
+                        levelCells[(int)forwardCell.x, (int)forwardCell.y] = 2;
+                        levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
+                        DrawLevelToPlayWithoutPlayer(levelCells);
+                        gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                        gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
+                        return true;
+                    }
+                }
+                gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
                 return true;
             }
             else
             {
                 DrawLevelToPlayWithoutPlayer(levelCells);
+                gameController.GetComponent<UIScriptController>().PlusPlayerMove();
                 return true;
             }
         }
@@ -262,6 +319,9 @@ public class LevelScript : MonoBehaviour
 
     private void LevelComplete()
     {
+        var player = GameObject.FindGameObjectWithTag("Player");
+        player.GetComponent<PlayerController>().activatePlayer = false;
+
         string path = "Assets/Resources/Level" + PlayerPrefs.GetInt("Level", 0) + ".txt";
 
         StreamReader reader = new StreamReader(path);

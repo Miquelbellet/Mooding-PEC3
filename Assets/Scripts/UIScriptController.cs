@@ -43,6 +43,18 @@ public class UIScriptController : MonoBehaviour
         levelNumber.text = levelNum.ToString();
     }
 
+    public void PlusPlayerMove()
+    {
+        moves++;
+        movesTxt.text = "Moves: "+moves.ToString();
+    }
+
+    public void PlusPlayerPushes()
+    {
+        pushes++;
+        pushesTxt.text = "Pushes: "+pushes.ToString();
+    }
+
     public void GameCompleted()
     {
         CompletedText.SetActive(true);

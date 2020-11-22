@@ -4,6 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using System.IO;
 using UnityEditor;
+using TMPro;
 
 public class EditLevelController : MonoBehaviour
 {
@@ -12,6 +13,7 @@ public class EditLevelController : MonoBehaviour
     public Sprite boxSprite;
     public Sprite targetSprite;
     public Sprite playerSprite;
+    public TextMeshProUGUI levelNumber;
 
 
     private LevelScript levelScript;
@@ -28,11 +30,12 @@ public class EditLevelController : MonoBehaviour
     void Start()
     {
         levelScript = GameObject.FindGameObjectWithTag("Level").GetComponent<LevelScript>();
+        levelNumber.text = PlayerPrefs.GetInt("Level", 0).ToString();
         string path = "Assets/Resources/Level" + PlayerPrefs.GetInt("Level", 0) + ".txt";
         if (File.Exists(path))
         {
             ReadLevelFile(path);
-            levelScript.DrawLevel(cells);
+            levelScript.DrawEditLevel(cells);
         }
         else DrawEmptyLevel();
     }
@@ -47,7 +50,7 @@ public class EditLevelController : MonoBehaviour
             try
             {
                 cells[(int)xPos, (int)yPos] = 3;
-                levelScript.DrawLevel(cells);
+                levelScript.DrawEditLevel(cells);
             }
             catch { }
         }
@@ -63,7 +66,7 @@ public class EditLevelController : MonoBehaviour
                 try
                 {
                     cells[(int)xPos, (int)yPos] = 0;
-                    levelScript.DrawLevel(cells);
+                    levelScript.DrawEditLevel(cells);
                 }
                 catch { }
             }
@@ -80,7 +83,7 @@ public class EditLevelController : MonoBehaviour
                 try
                 {
                     cells[(int)xPos, (int)yPos] = 1;
-                    levelScript.DrawLevel(cells);
+                    levelScript.DrawEditLevel(cells);
                 }
                 catch { }
             }
@@ -97,7 +100,7 @@ public class EditLevelController : MonoBehaviour
                 try
                 {
                     cells[(int)xPos, (int)yPos] = 2;
-                    levelScript.DrawLevel(cells);
+                    levelScript.DrawEditLevel(cells);
                 }
                 catch { }
             }
@@ -121,7 +124,7 @@ public class EditLevelController : MonoBehaviour
                         }
                     }
                     cells[(int)xPos, (int)yPos] = 5;
-                    levelScript.DrawLevel(cells);
+                    levelScript.DrawEditLevel(cells);
                 }
                 catch { }
             }
@@ -138,7 +141,7 @@ public class EditLevelController : MonoBehaviour
                 cells[i, n] = 3;
             }
         }
-        levelScript.DrawLevel(cells);
+        levelScript.DrawEditLevel(cells);
     }
 
     private void ReadLevelFile(string path)
@@ -188,11 +191,6 @@ public class EditLevelController : MonoBehaviour
         selectedItemObject = Instantiate(selectedItemPrefab);
         selectedItemObject.SetActive(true);
         selectedItemObject.GetComponent<SpriteRenderer>().sprite = playerSprite;
-    }
-
-    public void TestLevel()
-    {
-
     }
 
     public void SaveLevel()
