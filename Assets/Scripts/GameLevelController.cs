@@ -57,6 +57,11 @@ public class GameLevelController : MonoBehaviour
         }
     }
 
+    public void RestartBtn()
+    {
+        SceneManager.LoadScene("GameLevel");
+    }
+
     public void BackBtn()
     {
         SceneManager.LoadScene("GameMenu");

@@ -227,6 +227,21 @@ public class LevelScript : MonoBehaviour
                 else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 6)
                 {
                     if (levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] == 0) return false;
+                    else if (levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] == 6)
+                    {
+                        if (levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] == 0) return false;
+                        else
+                        {
+                            levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] = 3;
+                            levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 6;
+                            levelCells[(int)forwardCell.x, (int)forwardCell.y] = 6;
+                            levelCells[(int)posPlayer.x, (int)posPlayer.y] = 2;
+                            DrawLevelToPlayWithoutPlayer(levelCells);
+                            gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                            gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
+                            return true;
+                        }
+                    }
                     else
                     {
                         levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 1;
@@ -263,6 +278,16 @@ public class LevelScript : MonoBehaviour
                 else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 1)
                 {
                     if (levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] == 0) return false;
+                    else if (levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] == 2)
+                    {
+                        levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 6;
+                        levelCells[(int)forwardCell.x, (int)forwardCell.y] = 1;
+                        levelCells[(int)posPlayer.x, (int)posPlayer.y] = 2;
+                        DrawLevelToPlayWithoutPlayer(levelCells);
+                        gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                        gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
+                        return true;
+                    }
                     else
                     {
                         levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 1;
@@ -276,7 +301,6 @@ public class LevelScript : MonoBehaviour
                 }
                 else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 2)
                 {
-                    levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 3;
                     levelCells[(int)forwardCell.x, (int)forwardCell.y] = 6;
                     levelCells[(int)posPlayer.x, (int)posPlayer.y] = 2;
                     DrawLevelToPlayWithoutPlayer(levelCells);
@@ -287,6 +311,17 @@ public class LevelScript : MonoBehaviour
                 else if (levelCells[(int)forwardCell.x, (int)forwardCell.y] == 6)
                 {
                     if (levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] == 0) return false;
+                    else if(levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] == 2)
+                    {
+                        levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] = 6;
+                        levelCells[(int)forwardCell.x - (int)dir.x, (int)forwardCell.y - (int)dir.y] = 6;
+                        levelCells[(int)forwardCell.x, (int)forwardCell.y] = 2;
+                        levelCells[(int)posPlayer.x, (int)posPlayer.y] = 3;
+                        DrawLevelToPlayWithoutPlayer(levelCells);
+                        gameController.GetComponent<UIScriptController>().PlusPlayerMove();
+                        gameController.GetComponent<UIScriptController>().PlusPlayerPushes();
+                        return true;
+                    }
                     else
                     {
                         levelCells[(int)forwardCell.x - (int)dir.x - (int)dir.x, (int)forwardCell.y - (int)dir.y - (int)dir.y] = 3;
