@@ -10,6 +10,7 @@ public class UIScriptController : MonoBehaviour
     public TextMeshProUGUI timerTxt;
     public TextMeshProUGUI levelNumber;
     public GameObject CompletedText;
+    public AudioClip blip;
 
     private int moves;
     private int pushes;
@@ -47,6 +48,7 @@ public class UIScriptController : MonoBehaviour
     {
         moves++;
         movesTxt.text = "Moves: "+moves.ToString();
+        GetComponent<AudioSource>().PlayOneShot(blip);
     }
 
     public void PlusPlayerPushes()
